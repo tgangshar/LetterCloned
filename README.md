@@ -2,8 +2,10 @@
 
 A homebrewed webapp inspired by Letterboxd
 
+=======
 # Front-end
 # Backend
+
 Database will be The Movie Database (TMDb), since that's where Letterboxd gets their data from
 
 The MVP will be a barebones application, where the main goal is to connect to the database and output information to the website frontend.
