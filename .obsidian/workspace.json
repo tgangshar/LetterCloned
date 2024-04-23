@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "34511095dae65088",
+    "type": "split",
+    "children": [
+      {
+        "id": "88053a36f7b2aee2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "836cc22a0d31bbb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Top Companies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bee5b013ce559c16",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
+            "id": "007aa47474562286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA Method in Obsidian/4. Archives/Journal/__000 Home__.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "162e914a22e47d98",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea1b2d2807d5fb67",
+        "type": "tabs",
+        "dimension": 68.50393700787401,
+        "children": [
+          {
+            "id": "ba9061fc64dffadf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ee4ae2faa61c2aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "147705348f3c7840",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ef118ad920afb987",
+        "type": "tabs",
+        "dimension": 31.496062992125985,
+        "children": [
+          {
+            "id": "549908a677619b6f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5611d1dbcdb220a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5a3bfd486b95bc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a4da76463d2dd14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "11d82e3c9b1353f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PARA Method in Obsidian/4. Archives/Journal/__000 Home__.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7629e238e3f8d62c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PARA Method in Obsidian/4. Archives/Journal/__000 Home__.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ab23cf0cd333fef6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PARA Method in Obsidian/4. Archives/Journal/__000 Home__.md"
+              }
+            }
+          },
+          {
+            "id": "74854ebef492d9de",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 424.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "007aa47474562286",
+  "lastOpenFiles": [
+    "Brad Hudson.md",
+    "Article Library.md",
+    "&Alan Turning And the Power of Negative thinking.md",
+    "Top Companies.md",
+    "MTA.md",
+    "PARA Method in Obsidian/Templates/&Books.md",
+    "PARA Method in Obsidian/Templates/Taste O Coffee.md",
+    "PARA Method in Obsidian/Templates/Weekly Notes.md",
+    "PARA Method in Obsidian/Templates/Resource Template.md",
+    "PARA Method in Obsidian/Templates/Project Template.md",
+    "PARA Method in Obsidian/Templates/Daily Notes.md",
+    "PARA Method in Obsidian/Templates/Area Template.md",
+    "&Clean Code.md",
+    "PARA Method in Obsidian/4. Archives/Journal/Interview.md",
+    "Background and Experience.md",
+    "PARA Method in Obsidian/4. Archives/Journal/Python Technicals.md",
+    "PARA Method in Obsidian/4. Archives/Journal/__000 Home__.md",
+    "Project Euler.md",
+    "PARA Method in Obsidian/4. Archives/Journal/DigiCorps.md",
+    "PARA Method in Obsidian/4. Archives/Journal/Interview Resources.md",
+    "Kubrick Group.md",
+    "PARA Method in Obsidian/4. Archives/Journal/Coffee Passport.md",
+    "PARA Method in Obsidian/4. Archives/Journal/__00 Custo__.md",
+    "Topics.md",
+    "Job Profile.md",
+    "Intro to Data Analytics.md",
+    "Refrences/Markdown Cheat Sheet _ Markdown Guide.pdf",
+    "PARA Method in Obsidian/Templates",
+    "PARA Method in Obsidian/4. Archives",
+    "PARA Method in Obsidian/3. Resources",
+    "PARA Method in Obsidian/2. Areas",
+    "PARA Method in Obsidian/1. Projects",
+    "PARA Method in Obsidian"
+  ]
+}

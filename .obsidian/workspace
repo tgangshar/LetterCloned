@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "34511095dae65088",
+    "type": "split",
+    "children": [
+      {
+        "id": "bda45adcd4b605f5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Journal/IoT/IoT Architecture.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "162e914a22e47d98",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea1b2d2807d5fb67",
+        "type": "tabs",
+        "dimension": 68.50393700787401,
+        "children": [
+          {
+            "id": "ba9061fc64dffadf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ee4ae2faa61c2aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#test_review ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82377e1262ddfad7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ef118ad920afb987",
+        "type": "tabs",
+        "dimension": 31.496062992125985,
+        "children": [
+          {
+            "id": "549908a677619b6f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5611d1dbcdb220a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5a3bfd486b95bc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a4da76463d2dd14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "11d82e3c9b1353f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/IoT/IoT Architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7629e238e3f8d62c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/IoT/IoT Architecture.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ab23cf0cd333fef6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/IoT/IoT Architecture.md"
+              }
+            }
+          },
+          {
+            "id": "7de25c8396c7a01a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "74854ebef492d9de",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 435.5
+  },
+  "active": "bda45adcd4b605f5",
+  "lastOpenFiles": [
+    "PKI.md",
+    "Journal/IoT/IoT Architecture.md",
+    "Journal/IDS Module 1.md",
+    "Journal/Network Essentials.md",
+    "Journal/__001 Classes__.md",
+    "Journal/Network Protocol.md",
+    "Journal/IoT/IoT Forensics and Security.md",
+    "Journal/IoT/IoT Hardware.md",
+    "Journal/Daily Notes/2022-10-13.md",
+    "fuzzing.md"
+  ]
+}
