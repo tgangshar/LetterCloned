@@ -2,30 +2,11 @@
 
 A homebrewed webapp inspired by Letterboxd
 
-## Goal of README
-- Layout the idea
-- What we need to do for the idea
-- What technologies we need/learn for the idea
-	- MongoDB
-	- htmx
-- Time line to execute
-    - End Date: May 1st, 2024
-- How to distribute the work
-
-
-## Blueprint
-##### C Notes 4/22
-- We'll use a MERN-like stack
-	- MongoDB
-	- Express.js
-	- React
-	- Node.js
-- EXCEPT, we'll use Go for the backend
-	- An MRG stack
-      - MongoDB
-      - React
-      - Go
+=======
+# Front-end
+# Backend
 
 Database will be The Movie Database (TMDb), since that's where Letterboxd gets their data from
 
 The MVP will be a barebones application, where the main goal is to connect to the database and output information to the website frontend.
+![Alt](https://repobeats.axiom.co/api/embed/4f6f093ec6298465efd1ec9625de28ffd2f39964.svg "Repobeats analytics image")
