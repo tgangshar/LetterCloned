@@ -7,8 +7,9 @@ A homebrewed webapp inspired by Letterboxd
 - What we need to do for the idea
 - What technologies we need/learn for the idea
 	- MongoDB
-	- 
+	- htmx
 - Time line to execute
+    - End Date: May 1st, 2024
 - How to distribute the work
 
 
@@ -21,6 +22,9 @@ A homebrewed webapp inspired by Letterboxd
 	- Node.js
 - EXCEPT, we'll use Go for the backend
 	- An MRG stack
+      - MongoDB
+      - React
+      - Go
 
 Database will be The Movie Database (TMDb), since that's where Letterboxd gets their data from
 
