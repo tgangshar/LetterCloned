@@ -1,8 +1,8 @@
 # LetterCloned
 	A homebrewed webapp inspired by Letterboxd
-**Please reference [[LetterCloned/design/@Project Documentation|@Project Documentation]]**
+**Please reference [Project Documentation](https://github.com/tgangshar/LetterCloned/blob/main/design/%40Project%20Documentation.md)**
 - **next step: Fill out strategy roadmap and review overview**
-## Goal of README
+## Draft README
 - Time line to execute
     - End Date: May 1st, 2024
 - Push to production asap
@@ -24,4 +24,5 @@ Database will be The Movie Database (TMDb), since that's where Letterboxd gets t
 - Unit Test
 - Deployment
 The MVP will be a barebones application, where the main goal is to connect to the database and output information to the website frontend.
+
 ![Alt](https://repobeats.axiom.co/api/embed/4f6f093ec6298465efd1ec9625de28ffd2f39964.svg "Repobeats analytics image")
