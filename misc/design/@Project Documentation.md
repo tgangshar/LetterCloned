@@ -57,6 +57,7 @@ Area: Webdev
 - Carrinton
 	- Lead UX/UI
 	- Lead Front-end
+	- Lead Back-end
 - Tenzin
 	- Lead DevOps
 	- Lead QA engineer
