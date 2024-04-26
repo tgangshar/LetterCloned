@@ -16,7 +16,7 @@ templ-watch:
 	
 .PHONY: dev
 dev:
-	go build -o ./tmp/$(APP_NAME) ./cmd/$(APP_NAME)/main.go && air
+	 go build -o .\tmp\LetterCloned .\cmd\main.go && air
 
 .PHONY: build
 build:
